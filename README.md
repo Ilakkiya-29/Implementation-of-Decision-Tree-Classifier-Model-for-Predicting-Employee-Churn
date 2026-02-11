@@ -73,7 +73,7 @@ plt.show()
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+<img width="1014" height="749" alt="Screenshot 2026-02-11 112815" src="https://github.com/user-attachments/assets/dc697550-6f18-46c8-855d-4305d0982316" />
 
 
 ## Result:
